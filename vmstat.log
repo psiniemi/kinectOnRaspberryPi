@@ -1,0 +1,271 @@
+Wed Aug 14 11:57:20 EEST 2013
+       253528 K total memory
+       150060 K used memory
+        69708 K active memory
+        64208 K inactive memory
+       103468 K free memory
+        19164 K buffer memory
+        76336 K swap cache
+       102396 K total swap
+            0 K used swap
+       102396 K free swap
+         5647 non-nice user cpu ticks
+            0 nice user cpu ticks
+         4510 system cpu ticks
+       890753 idle cpu ticks
+          497 IO-wait cpu ticks
+           39 IRQ cpu ticks
+          247 softirq cpu ticks
+            0 stolen cpu ticks
+       107297 pages paged in
+        22436 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+      3177802 interrupts
+      1022605 CPU context switches
+   1376461533 boot time
+         3292 forks
+Wed Aug 14 11:57:21 EEST 2013
+       253528 K total memory
+       150060 K used memory
+        69708 K active memory
+        64212 K inactive memory
+       103468 K free memory
+        19164 K buffer memory
+        76340 K swap cache
+       102396 K total swap
+            0 K used swap
+       102396 K free swap
+         5649 non-nice user cpu ticks
+            0 nice user cpu ticks
+         4514 system cpu ticks
+       890852 idle cpu ticks
+          497 IO-wait cpu ticks
+           39 IRQ cpu ticks
+          247 softirq cpu ticks
+            0 stolen cpu ticks
+       107297 pages paged in
+        22436 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+      3178144 interrupts
+      1022717 CPU context switches
+   1376461533 boot time
+         3296 forks
+Wed Aug 14 11:57:22 EEST 2013
+       253528 K total memory
+       151436 K used memory
+        70572 K active memory
+        64208 K inactive memory
+       102092 K free memory
+        19164 K buffer memory
+        76340 K swap cache
+       102396 K total swap
+            0 K used swap
+       102396 K free swap
+         5651 non-nice user cpu ticks
+            0 nice user cpu ticks
+         4524 system cpu ticks
+       890945 idle cpu ticks
+          497 IO-wait cpu ticks
+           39 IRQ cpu ticks
+          247 softirq cpu ticks
+            0 stolen cpu ticks
+       107297 pages paged in
+        22436 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+      3178533 interrupts
+      1022871 CPU context switches
+   1376461533 boot time
+         3302 forks
+Wed Aug 14 11:57:23 EEST 2013
+       253528 K total memory
+       161864 K used memory
+        71412 K active memory
+        73032 K inactive memory
+        91664 K free memory
+        19164 K buffer memory
+        85296 K swap cache
+       102396 K total swap
+            0 K used swap
+       102396 K free swap
+         5674 non-nice user cpu ticks
+            0 nice user cpu ticks
+         4574 system cpu ticks
+       890987 idle cpu ticks
+          497 IO-wait cpu ticks
+           39 IRQ cpu ticks
+          247 softirq cpu ticks
+            0 stolen cpu ticks
+       107297 pages paged in
+        22436 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+      3187500 interrupts
+      1028217 CPU context switches
+   1376461533 boot time
+         3308 forks
+Wed Aug 14 11:57:24 EEST 2013
+       253528 K total memory
+       175696 K used memory
+        71620 K active memory
+        86356 K inactive memory
+        77832 K free memory
+        19176 K buffer memory
+        98808 K swap cache
+       102396 K total swap
+            0 K used swap
+       102396 K free swap
+         5698 non-nice user cpu ticks
+            0 nice user cpu ticks
+         4647 system cpu ticks
+       890995 idle cpu ticks
+          503 IO-wait cpu ticks
+           40 IRQ cpu ticks
+          248 softirq cpu ticks
+            0 stolen cpu ticks
+       107301 pages paged in
+        31032 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+      3197630 interrupts
+      1031616 CPU context switches
+   1376461533 boot time
+         3312 forks
+Wed Aug 14 11:57:26 EEST 2013
+       253528 K total memory
+       175936 K used memory
+        71656 K active memory
+        86548 K inactive memory
+        77592 K free memory
+        19176 K buffer memory
+        99032 K swap cache
+       102396 K total swap
+            0 K used swap
+       102396 K free swap
+         5702 non-nice user cpu ticks
+            0 nice user cpu ticks
+         4663 system cpu ticks
+       890995 idle cpu ticks
+          552 IO-wait cpu ticks
+           40 IRQ cpu ticks
+          248 softirq cpu ticks
+            0 stolen cpu ticks
+       107301 pages paged in
+        31032 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+      3207761 interrupts
+      1033801 CPU context switches
+   1376461533 boot time
+         3316 forks
+Wed Aug 14 11:57:27 EEST 2013
+       253528 K total memory
+       175428 K used memory
+        70956 K active memory
+        86864 K inactive memory
+        78100 K free memory
+        19176 K buffer memory
+        99368 K swap cache
+       102396 K total swap
+            0 K used swap
+       102396 K free swap
+         5709 non-nice user cpu ticks
+            0 nice user cpu ticks
+         4672 system cpu ticks
+       891062 idle cpu ticks
+          569 IO-wait cpu ticks
+           40 IRQ cpu ticks
+          248 softirq cpu ticks
+            0 stolen cpu ticks
+       107301 pages paged in
+        45260 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+      3210021 interrupts
+      1034351 CPU context switches
+   1376461533 boot time
+         3321 forks
+Wed Aug 14 11:57:28 EEST 2013
+       253528 K total memory
+       175368 K used memory
+        70960 K active memory
+        86868 K inactive memory
+        78160 K free memory
+        19176 K buffer memory
+        99376 K swap cache
+       102396 K total swap
+            0 K used swap
+       102396 K free swap
+         5712 non-nice user cpu ticks
+            0 nice user cpu ticks
+         4681 system cpu ticks
+       891156 idle cpu ticks
+          569 IO-wait cpu ticks
+           40 IRQ cpu ticks
+          248 softirq cpu ticks
+            0 stolen cpu ticks
+       107301 pages paged in
+        45260 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+      3210473 interrupts
+      1034517 CPU context switches
+   1376461533 boot time
+         3325 forks
+Wed Aug 14 11:57:29 EEST 2013
+       253528 K total memory
+       175368 K used memory
+        70960 K active memory
+        86876 K inactive memory
+        78160 K free memory
+        19184 K buffer memory
+        99376 K swap cache
+       102396 K total swap
+            0 K used swap
+       102396 K free swap
+         5712 non-nice user cpu ticks
+            0 nice user cpu ticks
+         4691 system cpu ticks
+       891251 idle cpu ticks
+          570 IO-wait cpu ticks
+           41 IRQ cpu ticks
+          248 softirq cpu ticks
+            0 stolen cpu ticks
+       107301 pages paged in
+        45300 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+      3210907 interrupts
+      1034696 CPU context switches
+   1376461533 boot time
+         3329 forks
+Wed Aug 14 11:57:30 EEST 2013
+       253528 K total memory
+       175368 K used memory
+        70960 K active memory
+        86880 K inactive memory
+        78160 K free memory
+        19184 K buffer memory
+        99380 K swap cache
+       102396 K total swap
+            0 K used swap
+       102396 K free swap
+         5715 non-nice user cpu ticks
+            0 nice user cpu ticks
+         4694 system cpu ticks
+       891349 idle cpu ticks
+          570 IO-wait cpu ticks
+           41 IRQ cpu ticks
+          248 softirq cpu ticks
+            0 stolen cpu ticks
+       107301 pages paged in
+        45300 pages paged out
+            0 pages swapped in
+            0 pages swapped out
+      3211256 interrupts
+      1034825 CPU context switches
+   1376461533 boot time
+         3333 forks
+Wed Aug 14 11:57:31 EEST 2013
